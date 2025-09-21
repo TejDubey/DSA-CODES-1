@@ -1,7 +1,8 @@
 # DSA-CODES-1
 Searching, Sorting, Stacks, Conversions, Queues in C
 
-1. Binary Search
+1. Searching:
+   Binary Search
 
 2.Sorting:
    Insertion Sort
